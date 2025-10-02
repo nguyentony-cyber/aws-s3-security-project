@@ -57,12 +57,13 @@ Server Access Logging: Tracks requests for auditing and monitoring, with logs st
 
 ## 🖼️ Screenshots
 
-<img width="1358" height="649" alt="Bucket-Creation" src="https://github.com/user-attachments/assets/a1905856-e47d-4680-8987-71072d9698f3" />
-<img width="1533" height="745" alt="Encryption" src="https://github.com/user-attachments/assets/cc63ce74-7106-4ac6-9fa2-4c1efb2d5361" />
-<img width="1185" height="704" alt="Versioning" src="https://github.com/user-attachments/assets/e06f9430-d010-4d20-8cf6-36e44d835e50" />
+<img width="1358" height="700" alt="Bucket-Creation" src="https://github.com/user-attachments/assets/a1905856-e47d-4680-8987-71072d9698f3" />
+<img width="1533" height="700" alt="Encryption" src="https://github.com/user-attachments/assets/cc63ce74-7106-4ac6-9fa2-4c1efb2d5361" />
+<img width="1185" height="700" alt="Versioning" src="https://github.com/user-attachments/assets/e06f9430-d010-4d20-8cf6-36e44d835e50" />
 
 <img width="1640" height="558" alt="Access-Logs" src="https://github.com/user-attachments/assets/2399071e-934a-4d4a-9cda-a39781f508fb" />
 
-📄 Executive Summary
+
+## 📄 Executive Summary
 
 This lab demonstrates securing cloud storage using AWS S3, combining encryption, access control, versioning, and monitoring. By applying IAM policies, KMS encryption, and server access logging, the project simulates real-world practices to protect sensitive data and ensure compliance. Using AWS CLI and Management Console reinforces automation and verification skills in cloud security and DevSecOps practices.
