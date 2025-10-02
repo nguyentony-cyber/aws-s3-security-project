@@ -58,10 +58,10 @@ Server Access Logging: Tracks requests for auditing and monitoring, with logs st
 ## 🖼️ Screenshots
 
 
-![Bucket Creation](Bucket-Creation.png)
-![Encryption Enabled](Encryption.png)
-![Versioning Enabled](Versioning.png)
-![Access Logs](Access-Logs.png)
+![Bucket Creation](screenshots/Bucket-Creation.png)
+![Encryption Enabled](screenshots/Encryption.png)
+![Versioning Enabled](screenshots/Versioning.png)
+![Access Logs](screenshots/Access-Logs.png)
 
 📄 Executive Summary
 
