@@ -57,6 +57,7 @@ Server Access Logging: Tracks requests for auditing and monitoring, with logs st
 
 ## 🖼️ Screenshots
 
+<img width="1358" height="649" alt="Bucket-Creation" src="https://github.com/user-attachments/assets/a1905856-e47d-4680-8987-71072d9698f3" />
 
 
 📄 Executive Summary
