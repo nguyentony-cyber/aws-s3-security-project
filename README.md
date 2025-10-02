@@ -1,5 +1,6 @@
 # aws-s3-security-project
 Securing AWS S3 Buckets Lab
+
 📌 Objective
 
 Secure data in Amazon S3 buckets by implementing cloud security best practices. The project includes creating S3 buckets, enabling server-side encryption, applying IAM-based bucket policies, enabling versioning, and configuring server access logging.
